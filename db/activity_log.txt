@@ -71,3 +71,4 @@
 [2024-09-21 14:26:12] User: ken, Action: Logged in, Details: 
 [2024-09-21 14:27:59] User: ken, Action: Added item, Details: Item: motor, Quantity: 1
 [2024-09-21 14:32:11] User: ken, Action: Logged in, Details: 
+[2024-09-21 14:45:18] User: john, Action: Logged in, Details: 
