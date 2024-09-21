@@ -1,0 +1,2 @@
+ken,$2b$12$sid1XsZP7hIDec8Bdo2UBeqLadPhYQKey4P8X9ApBW/Yd8ufATPJq,supply_manager
+john,$2b$12$5.oIzFymkiYELUTZfq58qudXD9eFArBldQU2/fDg/zsBTRUM3tYHu,supply_officer
